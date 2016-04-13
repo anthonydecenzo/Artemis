@@ -1,3 +1,9 @@
+/*
+ * This class uses the GridBagLayout with GridBagConstraints
+ * To construct the GUI and has action listeners for the buttons functionality
+ * Also includes a method that replaces the specified text with text of choice.
+ */
+
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

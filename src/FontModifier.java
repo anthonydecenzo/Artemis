@@ -1,3 +1,11 @@
+/*
+ * No main use for this class, yet.
+ * The intended use is to be able to 
+ * Change the font of the text, but
+ * JTextArea is consisted of plain-text
+ * Looking at the RTF text format  
+ */
+
 import java.awt.Font;
 
 public class FontModifier {

@@ -1,3 +1,8 @@
+/*
+ * The use of this class is to add
+ * Functionality to the delete JMenuBar
+ */
+
 public class Edit_delete {
 	String str = "";
 	public Edit_delete(String str){
